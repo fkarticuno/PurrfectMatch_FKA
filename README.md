@@ -14,6 +14,6 @@ Cat Dating For Millennials And Their Furry  Friends
         get started with bootstrap https://getbootstrap.com/docs/4.3/getting-started/introduction/
     </li>
     <li>
-        things
+       other things
     </li>
 </ul>
